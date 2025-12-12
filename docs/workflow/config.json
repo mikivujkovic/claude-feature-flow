@@ -1,0 +1,4 @@
+{
+  "test_command": "npm test || pnpm test || yarn test || pytest || echo 'No test command configured'",
+  "default_branch": "main"
+}

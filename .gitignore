@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+target
+.idea
+.vscode
+*.log
+.claude/transcripts
